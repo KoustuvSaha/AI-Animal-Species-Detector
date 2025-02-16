@@ -1,0 +1,9 @@
+tensorflow
+nvidia-pyindex
+nvidia-tensorflow
+gradio
+fastapi
+uvicorn
+pillow
+kaggle
+matplotlib
